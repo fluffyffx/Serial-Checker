@@ -2,7 +2,7 @@
 
 **Features:**
 
-- 🖥️ System Components Checked:
+**🖥️ System Components Checked:**
 
  - BIOS:
     - Identifying Number
